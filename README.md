@@ -14,7 +14,7 @@
 > First, clone the project
 
 ```bash
-git https://github.com/mahdihagollahi/TodoRedux.git
+git clone https://github.com/mahdihagollahi/TodoRedux.git
 ```
 
 > to run TodoRedux with npm
